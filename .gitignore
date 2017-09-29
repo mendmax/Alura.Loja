@@ -1,0 +1,8 @@
+*.user
+*.suo
+us.stackdump
+bin
+obj
+.vs
+packages/*
+!packages/Kendo*.dll
